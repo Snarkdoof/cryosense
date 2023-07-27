@@ -1,0 +1,9 @@
+
+{
+	"sensor": "<sensorname>",
+	"timestamp": "<epoc of when status was representative>",
+	"status": {
+		"<parameter name>": "<value>",
+		"<parameter2 name>": "<value2>"
+	}
+}
